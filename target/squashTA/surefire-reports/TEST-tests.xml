@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite time="15.251" failures="0" tests="1" name="tests" >
+  <testcase time="15.236" classname="tests" name="jpetstore.ta" />
+</testsuite>

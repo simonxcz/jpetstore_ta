@@ -1,0 +1,6 @@
+SETUP :
+
+TEST :
+# EXECUTE_SELENIUM1 selenium_recources WITH MAIN CLASS org.eql.DoublePrixPanier
+
+TEARDOWN :
